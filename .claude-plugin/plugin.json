@@ -1,0 +1,11 @@
+{
+  "name": "agentforce-skills",
+  "description": "Claude Code skills for Agentforce & Salesforce  (by Rishab)",
+  "version": "1.0.0",
+  "author": {
+    "name": "Rishab"
+  },
+  "repository": "https://github.com/srishab2002/developing-agentforce",
+  
+  "license": "MIT"
+}
